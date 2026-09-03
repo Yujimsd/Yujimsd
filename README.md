@@ -57,13 +57,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yujimsd&show_icons=true&theme=default&hide_title=false" alt="Yuji's GitHub stats" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Yujimsd&show_icons=true&theme=default&hide_title=false" alt="Yuji's GitHub stats" height="165"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yujimsd&theme=default" alt="Yuji's GitHub streak" height="165"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yujimsd&layout=compact&theme=default" alt="Top languages" height="165"/>
-</p>
+</p> -->
 
 ---
 
